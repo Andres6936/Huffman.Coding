@@ -10,7 +10,8 @@
 #include <cstddef>
 #include <stdexcept>
 #include <utility>
-#include "CanonicalCode.hpp"
+
+#include "Huffman/Coding/CanonicalCode.hpp"
 
 using std::uint32_t;
 using std::vector;

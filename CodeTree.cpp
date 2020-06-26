@@ -8,7 +8,8 @@
 
 #include <stdexcept>
 #include <utility>
-#include "CodeTree.hpp"
+
+#include "Huffman/Coding/CodeTree.hpp"
 
 using std::uint32_t;
 using std::vector;

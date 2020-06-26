@@ -7,7 +7,8 @@
  */
 
 #include <stdexcept>
-#include "HuffmanCoder.hpp"
+
+#include "Huffman/Coding/HuffmanCoder.hpp"
 
 
 HuffmanDecoder::HuffmanDecoder(BitInputStream& in) :

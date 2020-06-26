@@ -10,7 +10,8 @@
 #include <cassert>
 #include <stdexcept>
 #include <utility>
-#include "FrequencyTable.hpp"
+
+#include "Huffman/Coding/FrequencyTable.hpp"
 
 using std::uint32_t;
 using std::uint64_t;

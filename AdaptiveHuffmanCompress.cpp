@@ -21,9 +21,10 @@
 #include <iostream>
 #include <stdexcept>
 #include <vector>
-#include "BitIoStream.hpp"
-#include "FrequencyTable.hpp"
-#include "HuffmanCoder.hpp"
+
+#include "Huffman/Coding/BitIoStream.hpp"
+#include "Huffman/Coding/FrequencyTable.hpp"
+#include "Huffman/Coding/HuffmanCoder.hpp"
 
 using std::uint32_t;
 

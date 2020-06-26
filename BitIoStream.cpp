@@ -8,7 +8,8 @@
 
 #include <limits>
 #include <stdexcept>
-#include "BitIoStream.hpp"
+
+#include "Huffman/Coding/BitIoStream.hpp"
 
 
 BitInputStream::BitInputStream(std::istream& in) :
