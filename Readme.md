@@ -45,9 +45,9 @@ The class CodeTree, along with Node, InternalNode, and Leaf, represent
 a Huffman code tree. The leaves represent symbols. The path to a leaf
 represents the bit string of its Huffman code.
 
-<p aling="center">
+<p align="center">
     <img src="/Documentation/Code-Tree-Model.svg" alt="Code Tree" 
-        height="200px"/>
+        height="300px"/>
 </p>
 
 ### Frequency Table
